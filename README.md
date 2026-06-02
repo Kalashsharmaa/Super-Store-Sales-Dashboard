@@ -97,7 +97,7 @@ Microsoft Bing Maps
 
 Add your dashboard screenshot below:
 
-![Sales Dashboard](images/sales_dashboard.png)
+![Sales Dashboard](images/Dashboard.png)
 💡 Key Insights
 Consumer segment contributes the highest share of total sales.
 Standard Class is the most preferred shipping mode.
